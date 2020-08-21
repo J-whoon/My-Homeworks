@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\ccjeyhun\Desktop\Homework for GIT\Methods - 20.08.2020" Link="Methods - 20.08.2020" />
+  </ItemGroup>
+
+</Project>
